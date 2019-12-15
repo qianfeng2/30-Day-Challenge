@@ -4,3 +4,4 @@ Then I go back home and come to MIG again, I lost one hour time! One hour!
 
 
 # 5:06pm Introduction finish!
+# 7:37pm Abstract finish!
