@@ -3,3 +3,4 @@ Today is a Sunday as usual, unusual thing is I forgot bringing my student card a
 Then I go back home and come to MIG again, I lost one hour time! One hour!
 
 
+# 5:06pm Introduction finish!
