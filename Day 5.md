@@ -4,7 +4,7 @@
 - 10:35-11:30 review discussion points with Shazia, problems with Gerry, prepare the meeting this afternoon
 
 
-### afternoon elec bill
+### afternoon 
 
 - 4:30-6:30 submit all mutation/indel ... jobs
 
