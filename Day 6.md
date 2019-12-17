@@ -8,5 +8,6 @@ email to Shazia, Ecuador data recombination detection?
 - 3:15-4:15 format and citation for the edited version 
 
 - 5:00-7:00 submit jobs for all indels, mutation, length, models...
+            mutation and indels bkp error tomorrow work
 
 - 7:30-8:00 citation format rearrangement
