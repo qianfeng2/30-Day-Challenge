@@ -6,5 +6,5 @@ email to Shazia, Ecuador data recombination detection?
 
 ###
 - 3:15-4:15 format and citation for the edited version 
-- 4:30-5:30 [manuscript conclusions]
+- 4:30-5:30 [manuscript writing] conclusions
 - 6:00-8:00 submit jobs for all indels, mutation, length, models...
