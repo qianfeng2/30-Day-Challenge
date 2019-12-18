@@ -7,5 +7,5 @@
 ### afternoon 
 
 -  Respond email to Prof. Karen
-
-- [manuscript writing] Conclusions
+- investigate four outliers (999999999)
+- [manuscript writing] think and write the bkp_error part
