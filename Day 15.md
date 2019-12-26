@@ -12,3 +12,6 @@
 
 
 
+The dream is plump but the reality is skinny.
+
+I finished the 10:15-11:10 task at 5:53 pm. will collect and analyze the ups classification tomorrow morning.
