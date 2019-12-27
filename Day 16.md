@@ -7,6 +7,10 @@
 - 10:10-11:10 collect classification results and initial comparison
 - 11:30-12:30 finish unfinished remaining task in the morning
 
+Done！
+Happy thing is I finally succeed in drawing the arrows. Do the things I do not like is also one good training.
+
+From now on, drawing plots with inkscape please use the windows computer.
 
 
 
