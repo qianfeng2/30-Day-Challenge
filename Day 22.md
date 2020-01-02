@@ -11,3 +11,4 @@ Today is really a bad day, the main reason is I do not make a good plan in advan
 -4:50-5:50 upsA initial comparison
 
 
+I may need to send one email to Gerry: DBLa1.3 pipeline is correct; how to identify the HBs with Rask's hmm file or VarDom?
