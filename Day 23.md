@@ -9,9 +9,9 @@
 There is a mistake in my ups A calculation pipeline, so I do it again, submit jobs into slow spartan.
 
 ## afternoon
-- 6:15-7:15 estimate the viterbi path for S1 data
-- 7:30-8:30 estimate the viterbi path for S2 data
-- 9:00-10:00 draw the arrow in the manuscript
+- 2:15-3:15 [rec det project] recombinant exploration for global data
+- 3:30-4:30 think how to make pylogenetic network?
+- 4:40-5:40 [rec det project] recombinant exploration for global data
 
 
 # fiance
