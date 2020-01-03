@@ -6,6 +6,8 @@
 
 - 11:10-12:00 [rec det project]recombinant exploration for global data
 
+There is a mistake in my ups A calculation pipeline, so I do it again, submit jobs into slow spartan.
+
 ## afternoon
 - 6:15-7:15 estimate the viterbi path for S1 data
 - 7:30-8:30 estimate the viterbi path for S2 data
