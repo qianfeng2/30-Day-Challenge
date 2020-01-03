@@ -13,6 +13,7 @@ There is a mistake in my ups A calculation pipeline, so I do it again, submit jo
 - 3:30-4:30 think how to make pylogenetic network?
 - 4:40-5:40 [rec det project] recombinant exploration for global data
 - 6：40-7：40 resubmit two jobs into Siru's spartan
+
 Done!
 
 # fiance
