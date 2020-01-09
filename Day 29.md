@@ -14,5 +14,7 @@ After the investigation, I think we could use the R package drectly. First you n
 - 4:00-5:00 next iteration for S1
 - 5:10-6:10 get upsA for global data 
 
+Implementation is slow for global data, I will use spartan this evening.
+
 
 
