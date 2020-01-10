@@ -13,6 +13,12 @@ write a report.
 Look at the comments of manuscript
 
 
+It turns out both are very difficult to do. Let's do it one by one.
+
+- 3:50-5:00 evaluation about themselves.
+
+- 5:10-6:00 upload R code and submit job
+
 
 
 
