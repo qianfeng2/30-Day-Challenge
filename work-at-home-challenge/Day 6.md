@@ -1,4 +1,4 @@
--resubmit next iteration for s2
+Task1: I finished the S1 1000 target sequences extraction, tomorrow I should try to get split and estimate the rho from a series of numbers.
 
 ### 
 - 9:00-9:30 two s200 jobs may need resubmit, extend time
@@ -6,4 +6,4 @@
  
 
 ###
-Task1: I finished the S1 1000 target sequences extraction, tomorrow I should try to get split and estimate the rho from a series of numbers.
+-resubmit next iteration for s2
