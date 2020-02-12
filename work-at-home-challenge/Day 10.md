@@ -5,19 +5,21 @@
 
 
 
-11:00-12:00 writing introduction chapter(Today and tomorrow nust finish)
+11:00-12:00 writing introduction chapter(Today and tomorrow must finish)
 
 
 ## afternoon
-1. Introduction
-2. get the distribution of emprical data (do the simulation again.) UNDO!!!
+
+3:50-4:30 I finished the S1 1000 target sequences extraction, tomorrow I should try to get split and estimate the rho from a series of numbers. (try the time and submit jobs)
+
+4:40-5:30 get the distribution of emprical data (do the simulation again.) UNDO!!!
 
 
 
 ## night
-method
+try method writing
 
 
-Task1: I finished the S1 1000 target sequences extraction, tomorrow I should try to get split and estimate the rho from a series of numbers.
+
 
 
