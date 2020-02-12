@@ -1,7 +1,7 @@
 
 
 ## morning
-9:00-10:30 correct the bkp error and analyze them: HALFdone!
+9:00-10:30 correct the bkp error and analyze them: ALMOSTdone(After the size 250. Now I have analyzed the 50-200 all results)!
 
 
 
