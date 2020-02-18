@@ -4,7 +4,7 @@ Review all sentense of Method chapter.
 
 Wednesday:
 Morning is the multiple-source aligment;
-Afteroon is the code modification and submit(Thursday);
+Afteroon is the code modification and submit(Thursday); and the S1 rho estimation.
 
 Thursday：
 Structure of Result
