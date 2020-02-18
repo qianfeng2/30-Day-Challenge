@@ -3,7 +3,7 @@ Today I finish the two figures involved in Method chapter by inkscape.
 Review all sentense of Method chapter.
 
 Wednesday:
-Morning is the multiple-source aligment;
+Morning is the multiple-source aligment;and the Indentifiable issue section
 Afteroon is the code modification and submit(Thursday); and the S1 rho estimation.
 
 Thursday：
